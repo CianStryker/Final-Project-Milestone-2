@@ -1,0 +1,17 @@
+---
+title: "Final-Project-Milestone-2"
+author: "Cian Stryker"
+date: "9/17/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Project #1: Ruoqui Zhang's *Settling the Dust: Censorship & Environmental Activism in china, 2012*
+
+
+
+# Project #2: Céline Vendler's *Zillow Data Explorer*
+

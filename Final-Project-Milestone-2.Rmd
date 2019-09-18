@@ -9,9 +9,14 @@ output: html_document
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-# Project #1: Ruoqui Zhang's *Settling the Dust: Censorship & Environmental Activism in china, 2012*
+# Project #1: Nicholas Dow's *Muller Report Text Analysis*
+
+This report is very interesting because of how few people actually read the incredibl long Muller report, so finding wasy to extract important information from it with some data tricks is a great idea. The pros of this report and definitely the lay out and overall design. It looks really good and all the graphs, plots, and interactive tables work very fluidly. Everything is formatted well and visually every tab is great. The only con I can really find is that with a few of the graphs or tables the function is not very cleary described. For example on the Sentiment Over Time graph, while I assume a negative number corresponds to a lower sentimental connotation, this is not explained, which means the y axis is fairly ambiguous. Similalry, I am unfamiliar with webscraping so that tab was odd at first before I figured out what it meant. These things could easily be addressed in the text and would improve the overall project. 
 
 
 
-# Project #2: Céline Vendler's *Zillow Data Explorer*
+# Project #2: Ruoqui Zhang's *Settling the Dust: Censorship & Environmental Activism in china, 2012*
+
+This report touches on an incredibly interesting poltical topic and analyzes the topic with intriguing and interesting strategies. The pros have to include the almost journalistic approach in using his visualizations, graphs, and interactives tables to demonstrate specific poltical points he makes in the text. The graphs, tables, etc. are generally very clear, responsive, and display the information required, saying nothing about how they show very interesting phenomenon. Specifically, the map that shows air pollution over time is fascinating. He drew on data from multiple sources and I can only imagine the difficulty in gathering, cleaning, and combining all this data. That being said, the cons are almost exclusively about formatting. The overall display of the work is fairly poor. The text being in the middle with the graphs jutting off to one side or the other is not appealing. In one case, this format actually cuts off the title of the graph about Weibo posts, which definitely comes across as less professional. 
+
 
